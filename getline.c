@@ -1,8 +1,3 @@
-/*
- * File: getline.c
- * Auth: Sarpong Twum  Barimah & Francesca Lynn Asiedu Asare
- */
-
 #include "shell.h"
 
 void *_realloc(void *ptr, unsigned int old_size, unsigned int new_size);

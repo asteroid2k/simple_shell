@@ -1,8 +1,3 @@
-/*
- * File: main.c
- * Auth: Sarpong Twum Barimah & Francesca
- */
-
 #include "shell.h"
 
 void sig_handler(int sig);

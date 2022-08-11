@@ -1,8 +1,3 @@
-/*
- * File: str_funcs2.c
- * Auth: Sarpong Twum barimah & Francesca
- */
-
 #include "shell.h"
 
 char *_strchr(char *s, char c);

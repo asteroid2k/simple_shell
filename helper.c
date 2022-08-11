@@ -1,8 +1,3 @@
-/*
- * File: helper.c
- * Auth: Sarpong Twum Barimah  & Francesca Lynn Asiedu Asare
- */
-
 #include "shell.h"
 
 void free_args(char **args, char **front);

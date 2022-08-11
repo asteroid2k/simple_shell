@@ -1,8 +1,3 @@
-/*
- * File: input_helpers.c
- * Auth: Sarpong Twum Barimah & Francesca Lynn Asiedu Asare
- */
-
 #include "shell.h"
 
 char *get_args(char *line, int *exe_ret);
